@@ -1,5 +1,5 @@
-# VSI_project_data
-This repo consist the VSI project information
+# VSI - Visual and Spoken Interface - Coursework 2
+In this repository, it coinsist of this project documentation. 
 
-
-pushing from the local device
+## Project: *Face Recognition, Facial Expression And Hand Gesture Identification*
+In this project, I have used some machine learning models to identifying faces and hand-gesture,along with building GUI so the system can analysis multiple information in a single click. 
